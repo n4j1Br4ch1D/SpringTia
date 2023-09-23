@@ -25,8 +25,13 @@ This Project Aims to Contribute to Creating a better Spring Boot Inertia Adapter
 - 
 
 ## Features
-
+- [x] Progress indicators.
 - [x] Shared Data.
+- [ ] Authentication.
+- [ ] Authorization(ACL).
+- [ ] Pagination.
+- [ ] Remembering state.
+- [ ] Localization.
 
 ## Stack:
 
