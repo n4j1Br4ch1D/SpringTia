@@ -48,9 +48,18 @@ This Project Aims to Contribute to Creating a better Spring Boot Inertia Adapter
 - Java 17.
 - Spring Boot 3.1.4.
 - Gradle - Groovy.
-- 
+- Lombok.
+- Spring Security.
+- Modelmapper.
 
-- 
+- NodeJS.
+- Vite 4.0.5.
+- TypeScript.
+- Inertia 0.11.1.
+- React 18.2.0.
+- PostCSS 8.4.20.
+- Tailwindcss 3.2.4.
+  
 ## Installation
 
 ```sh
