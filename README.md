@@ -25,16 +25,32 @@ This Project Aims to Contribute to Creating a better Spring Boot Inertia Adapter
 - 
 
 ## Features
+- [x] Routing.
+- [x] Layouts.
+- [x] Scroll preservation.
 - [x] Progress indicators.
+- [x] Title & meta.
 - [x] Shared Data.
+- [ ] Active states.
+- [ ] Browser history
+- [ ] Partial reloads.
+- [ ] Redirects
+- [ ] Manual visits.
 - [ ] Authentication.
 - [ ] Authorization(ACL).
 - [ ] Pagination.
 - [ ] Remembering state.
 - [ ] Localization.
+- [ ] SSR.
+- [ ] ... .
 
 ## Stack:
+- Java 17.
+- Spring Boot 3.1.4.
+- Gradle - Groovy.
+- 
 
+- 
 ## Installation
 
 ```sh
