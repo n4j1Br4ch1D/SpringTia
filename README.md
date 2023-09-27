@@ -9,7 +9,8 @@
 
 Full functionality demo of Inertia and Spring Boot, using Vite and React (recent stable versions).
 
-This Project Aims to Contribute to Creating a better Spring Boot Inertia Adapter, By ...
+This Project Aims to Contribute to Creating a better Spring Boot Inertia Adapter, By upgrading to recent stable versions, making a demonstartion of all inertia features plus adding missing ones.
+This project is based on 
 
 <div style="display:flex">
 <img src="https://raw.githubusercontent.com/n4j1Br4ch1D/" alt="SpringTia" height="300" width="400">
